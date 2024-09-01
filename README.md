@@ -1,7 +1,6 @@
 ### Olá, Thaynara aqui :)
 
-Sou estudante de Engenharia Química e atualmente atuo na área de **Data Science**, focando na geração de valor por meio da manipulação, preparação, análise e modelagem de grandes volumes de dados. Minha expertise inclui a aplicação de métodos de Machine Learning e desenvolvimento de modelos preditivos para transformar dados em insights estratégicos.
-  - **Entusiasta da inovação:** Constantemente explorando novas tecnologias com foco em gerar resultado
+Sou estudante de Engenharia Química e atualmente estudo **Data Science**, focando na geração de valor por meio da manipulação, preparação, análise e modelagem de grandes volumes de dados. Minha expertise inclui a aplicação de métodos de Machine Learning e desenvolvimento de modelos preditivos para transformar dados em insights estratégicos.
 - Atualmente mais focada em:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" /> 
